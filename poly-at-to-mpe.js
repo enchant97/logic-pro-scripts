@@ -1,7 +1,7 @@
 /*
 Poly Aftertouch -> MPE Converter
 Assigns each note its own channel and converts Poly AT to Channel Pressure.
-MPE zone: channels 2–16 (channel 1 = master).
+MPE zone: channels 2-16 (channel 1 = master).
 
 Usage:
     1. Add Scripter to top of MIDI effects for instrument
